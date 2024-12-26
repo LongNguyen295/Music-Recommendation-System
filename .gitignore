@@ -1,0 +1,8 @@
+# Backend
+.ipynb_checkpoints/
+.cache/
+archive.zip
+*.pkl
+
+# Frontend
+node_modules/
